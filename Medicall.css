@@ -1,0 +1,99 @@
+                                #services {
+                                    padding: 5%;
+                                    background: rgb(0, 128, 255);
+                                }
+                                
+                                #servicesh2 {
+                                    padding: 5%;
+                                    color: whitesmoke;
+                                }
+                                
+                                .servicesh2 {
+                                    color: whitesmoke;
+                                }
+                                
+                                .marginrow {
+                                    margin-top: 5% !important;
+                                }
+                                
+                                .imagecarousels>img {
+                                    width: 100%;
+                                    height: 600px !important;
+                                }
+                                
+                                #slider2 .carousel-control-prev {
+                                    position: absolute;
+                                    top: 27%;
+                                    /* right: 0%; */
+                                    /* right: -4px; */
+                                    left: -4%;
+                                }
+                                
+                                #slider2 .carousel-control-next {
+                                    position: absolute;
+                                    top: 25%;
+                                    left: 96%;
+                                    bottom: 42%;
+                                }
+                                
+                                #customerssay {
+                                    margin-top: 5%;
+                                }
+                                
+                                .customitems h4 {
+                                    margin: 0px !important;
+                                    padding: 5%;
+                                    text-align: center;
+                                    font-size: 25px !important;
+                                    line-height: 1.42857143 !important;
+                                    color: whitesmoke;
+                                }
+                                
+                                .carouselindicatorscustom {
+                                    bottom: 10px !important;
+                                }
+                                
+                                .customitems {
+                                    margin: 4% !important;
+                                }
+                                
+                                .contacth2 {
+                                    margin-bottom: 3%;
+                                }
+                                
+                                .hovereffect>img {
+                                    width: 400px;
+                                    height: 400px;
+                                    border: 7px solid white;
+                                }
+                                
+                                #slider2,
+                                #slider2wrapper {
+                                    background: rgb(0, 128, 255);
+                                }
+                                
+                                .logoimage {
+                                    position: absolute;
+                                    width: 120px;
+                                    height: auto;
+                                    bottom: 1%;
+                                }
+                                
+                                .applinkcss {
+                                    margin-bottom: 3%;
+                                }
+                                
+                                #sendlinkbutton {
+                                    background: green;
+                                    color: whitesmoke;
+                                    font-weight: bold;
+                                }
+                                
+                                #contact {
+                                    background: rgb(0, 128, 255);
+                                    color: whitesmoke !important;
+                                }
+                                
+                                .visionmission {
+                                    border-right: 5px solid #eee !important;
+                                }
